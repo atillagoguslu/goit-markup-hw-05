@@ -746,7 +746,7 @@ body {
   letter-spacing: 0.04em;
   color: #8e8f99;
   display: block;
-  margin-bottom: 16px;
+  margin-bottom: 4px;
 }
 .modalFormOneDivLabelDiv {
   position: relative;
@@ -826,6 +826,7 @@ body {
 .modalFormConfirmInput:checked .modalFormConfirmLabelSpan {
   background-color: #404bbf;
   fill: #f4f4fd;
+  border: none;
 }
 
 .privacyPolicy {
