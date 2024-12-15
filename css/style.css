@@ -614,7 +614,7 @@ body {
 /* ---------------------------------------- */
 /*----- Form bölümü buradan başlamakta -----*/
 
-.Footer-Form-Container p {
+.footerFormContainer p {
   margin-bottom: 16px;
   font-weight: 500;
   font-size: 16px;
@@ -623,12 +623,12 @@ body {
   color: var(--white);
 }
 
-.Footer-Form {
+.footerForm {
   display: flex;
   gap: 24px;
 }
 
-.Footer-Form-Label-Input {
+.footerFormLabelInput {
   width: 264px;
   height: 40px;
   border: 1px solid #ffffff;
@@ -642,7 +642,7 @@ body {
   color: #ffffff;
 }
 
-.Footer-Form-Button {
+.footerFormButton {
   min-width: 165px;
   height: 40px;
   display: flex;
