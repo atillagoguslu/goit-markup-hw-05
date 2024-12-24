@@ -738,7 +738,7 @@ body {
   margin-bottom: 16px;
 }
 .modal-form-div {
-  margin-bottom: 16px;
+  margin-bottom: 8px;
 }
 .modal-form-div-label {
   font-size: 12px;
@@ -773,9 +773,13 @@ body {
   transform: translateY(-50%);
   transition: fill 250ms cubic-bezier(0.4, 0, 0.2, 1);
 }
-/* This code's aim is  */
+
 .modal-form-div-label-div-input:focus + .modal-svg {
   fill: #4d5ae5;
+}
+
+.modal-form-div-forcomment {
+  margin-bottom: 16px;
 }
 .modal-form-textarea {
   width: 100%;
